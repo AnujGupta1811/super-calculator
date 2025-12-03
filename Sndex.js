@@ -16,3 +16,6 @@ function modulus(a,b) {
 function power(a,b) {
     return a ** b;
 }
+function multiply(x,y) {
+    return x * y;
+}
